@@ -1,8 +1,6 @@
 # sample-java-springboot-actions
 A basic sample application using Java Spring Boot using Github Actions to deploy in OpenShift
 
-This demo shows a simple container based app can easily be bootstrapped onto an openshift cluster. This application runs a simple node.js server and serves up HTML pages.
-
 Try it out by forking this demo or use your own container based application.
 
 Step	
